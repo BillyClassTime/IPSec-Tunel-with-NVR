@@ -16,13 +16,13 @@ Mostoles Paseo de Arroyo Molinos
 
 ## Configuración de las reglas del Firewall
 
-![](Firewall Rules.png)
+![](Firewall-Rules.png)
 
 
 
 ## Configuración reglas de NAT
 
-![](Nat Rules.png)
+![](Nat-Rules.png)
 
 
 
@@ -36,7 +36,7 @@ Mostoles Paseo de Arroyo Molinos
 
 ## Configuraciones para el IPSec
 
-![](IPSec control grabador.png)
+![](IPSec-control-grabador.png)
 
 Lo que esta resaltado es la configuración realizadad, lo que no, lo que viene en el apartado: [Manual:IP/IPsec - MikroTik Wiki](https://wiki.mikrotik.com/wiki/Manual:IP/IPsec#Site_to_Site_IPsec_tunnel)
 
