@@ -51,3 +51,18 @@ El grabador ahora debería ver las cámaras en el site 1 y 2, pero no ve las del
 No se ha abierto el puerto 8080, al parecer el ONVIF requiere este puerto aunque no se abra en el NAT.
 
 ![](GrabadorConCamarasEnVivo.png)
+
+
+
+# Comprobación final
+
+Realizamos la siguiente comprobación en la Mikrotik
+
+![](Last-Test.png)
+
+
+
+# Conclusión
+
+Hemos unificado las redes de los dos comercios al sur de Madrid (Mostoles) de nuestro cliente, reutilizando los dos router Mikrotik que tiene en cada uno de ellos, hemos puesto un grabador en uno solo de los lugares y hemos dado de alta todas las cámaras para que un único grabador sea el que gestione el almacenamiento de videos de los dos comercios. 
+
